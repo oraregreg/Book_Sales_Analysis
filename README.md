@@ -146,11 +146,13 @@ plt.show()
 Book Sales Analysis - Key Takeaways
 
 1. Genre Dominance
-genre fiction dominates the market with ~800 books, far surpassing nonfiction (~180), fiction (~60), and children's (~30)
+
+Fiction dominates the market with ~800 books, far surpassing nonfiction (~180), fiction (~60), and children's (~30)
 
 Publisher strategy: Focus on genre fiction for highest market share
 
 2. Language Distribution
+
 English dominates the dataset: en-US (71%) + en-GB (24%) = 95% English-language books
 
 Other languages make up only ~5% of the collection
@@ -158,6 +160,7 @@ Other languages make up only ~5% of the collection
 Takeaway: The market is heavily English-centric
 
 3. Price vs. Units Sold
+
 No clear correlation between price and units sold (scattered distribution)
 
 Some books at $10-20 sell 2,000–6,000 units, while others at similar prices sell fewer
@@ -165,6 +168,7 @@ Some books at $10-20 sell 2,000–6,000 units, while others at similar prices se
 Takeaway: Price alone doesn't drive sales—other factors (author, genre, marketing) matter more
 
 4. Author Performance
+
 Harper Lee leads with ~$48,000 gross sales, followed by Stephen King (~$43,000)
 
 Top 10 authors generate between $29,000–$48,000 each
@@ -172,6 +176,7 @@ Top 10 authors generate between $29,000–$48,000 each
 Takeaway: A small group of top authors generates significant revenue
 
 5. Publisher Revenue
+
 Penguin Group (USA) LLC dominates with ~$205,000 total revenue
 
 Big 5 publishers (Penguin, Random House, Amazon, HarperCollins, Hachette) control ~85% of revenue
